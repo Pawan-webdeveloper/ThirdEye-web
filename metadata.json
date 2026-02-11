@@ -1,0 +1,7 @@
+{
+  "name": "ThirdEye - Intelligent Safety Platform",
+  "description": "A world-class, Apple-inspired security landing page featuring real-time threat detection visualizations, bento-style grids, and interactive pricing calculators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
